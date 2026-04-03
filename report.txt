@@ -1,0 +1,18 @@
+Report Generated on: Fri, Apr  3, 2026  1:23:48 PM
+-----------------------------
+User Report
+
+Name: John Doe
+Email: john.doe@email.com
+Phone: 555-1234
+
+Name: Jane Smith
+Email: jane.smith@email.com
+Phone: 555-5678
+
+Name: Bob Johnson
+Email: bob.johnson@email.com
+Phone: 555-9012
+
+------------------------------
+End of Report
